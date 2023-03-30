@@ -46,6 +46,7 @@ int main(void)
 	paquete(conexion);
 	destruir_cliente(cliente);
 	terminar_programa(conexion, logger, config);
+	close(conexion);
 
 	/*---------------------------------------------------PARTE 5-------------------------------------------------------------*/
 	// Proximamente

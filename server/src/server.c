@@ -28,6 +28,8 @@ int main(void) {
 			break;
 		}
 	}
+	close(server_fd);
+	close(cliente_fd);
 	return EXIT_SUCCESS;
 }
 

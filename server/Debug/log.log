@@ -98,3 +98,18 @@
 [INFO] 20:16:53:838 Servidor/(3947:3947): Se conecto un cliente!
 [INFO] 20:16:53:843 Servidor/(3947:3947): Me llego el mensaje valor
 [ERROR] 20:17:05:077 Servidor/(3947:3947): el cliente se desconecto. Terminando servidor
+[INFO] 20:58:48:040 Servidor/(4945:4945): Servidor listo para recibir al cliente
+[INFO] 20:59:01:466 Servidor/(4945:4945): Se conecto un cliente!
+[INFO] 20:59:01:467 Servidor/(4945:4945): Me llego el mensaje valor
+[INFO] 20:59:21:414 Servidor/(4945:4945): Me llegaron los siguientes valores:
+
+[INFO] 20:59:21:414 Servidor/(4945:4945): testeando
+[INFO] 20:59:21:415 Servidor/(4945:4945): enviando paquetes
+[ERROR] 20:59:21:415 Servidor/(4945:4945): el cliente se desconecto. Terminando servidor
+[INFO] 20:59:45:761 Servidor/(4964:4964): Servidor listo para recibir al cliente
+[INFO] 21:00:01:899 Servidor/(4964:4964): Se conecto un cliente!
+[INFO] 21:00:01:930 Servidor/(4964:4964): Me llego el mensaje valor
+[INFO] 21:00:11:255 Servidor/(4964:4964): Me llegaron los siguientes valores:
+
+[INFO] 21:00:11:255 Servidor/(4964:4964): testeando valgrind
+[ERROR] 21:00:11:297 Servidor/(4964:4964): el cliente se desconecto. Terminando servidor
